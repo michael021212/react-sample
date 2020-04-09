@@ -1,5 +1,6 @@
 import React from 'react'
 
+// 下記はアロー表記。funciton TableHeader() { return... } でもいける
 const TableHeader = () => {
   return (
     <thead>
