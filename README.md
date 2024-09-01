@@ -1,8 +1,6 @@
 # ReactによるJob登録アプリ(作成・削除)
 https://michael021212.github.io/react-sample/
 
-## 目的
-最新のフロントエンド技術を触ってみる
 
 ## 概要
 下記の切り替えはindex.jsを変更する
